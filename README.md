@@ -39,3 +39,12 @@ https://findsubdomains.com/
 
 
 https://bgp.he.net/
+
+
+#Links de soluções de problemas comuns
+
+
+Erro ao tentar atualizar o pfsense
+
+
+https://forum.netgate.com/topic/121316/answered-solved-libssl-so-8-not-found-i-can-t-update-from-2-34p1
