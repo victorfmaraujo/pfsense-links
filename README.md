@@ -10,11 +10,11 @@ https://github.com/marcelloc/Unofficial-pfSense-packages
 #Vídeo Tutoriais:
 
 
-*Canal Oficial Netgate*
+**Canal Oficial Netgate**
 https://www.youtube.com/c/netgateofficial
 
 
-*Canal Cavalcanti treinamentos:*
+**Canal Cavalcanti treinamentos:**
 
 
 https://www.youtube.com/watch?v=k-voNrQXv0A&list=PLQ7gVTPc8Kmij4-2RpiQMAQjkj3XkolGI
@@ -23,13 +23,13 @@ https://www.youtube.com/watch?v=k-voNrQXv0A&list=PLQ7gVTPc8Kmij4-2RpiQMAQjkj3Xko
 #Vídeos específicos:
 
 
-*Configurando OpenVpn com servidor de autenticação Radius MS:*
+**Configurando OpenVpn com servidor de autenticação Radius MS:**
 
 
 https://www.youtube.com/watch?v=xyRNQ6TkYLc
 
 
-*Configurando o E2Guardian no pfSense: Simples e Rápido!*
+**Configurando o E2Guardian no pfSense: Simples e Rápido!**
 
 
 https://youtu.be/rHmvAtt5Ybw
@@ -38,7 +38,7 @@ https://youtu.be/rHmvAtt5Ybw
 #Links úteis para situações diversas:
 
 
-*Descobrir endereços e subdomínios para bloquear via Firewall ou Proxy*
+**Descobrir endereços e subdomínios para bloquear via Firewall ou Proxy**
 
 
 https://findsubdomains.com/
@@ -50,7 +50,7 @@ https://bgp.he.net/
 #Links de soluções de problemas comuns
 
 
-*Erro ao tentar atualizar o pfsense*
+**Erro ao tentar atualizar o pfsense**
 
 
 https://forum.netgate.com/topic/121316/answered-solved-libssl-so-8-not-found-i-can-t-update-from-2-34p1
