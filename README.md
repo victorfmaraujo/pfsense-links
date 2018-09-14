@@ -7,6 +7,11 @@
 <h3>Caso esteja no celular, clique abaixo em View all of README.md</h3>
 
 
+<h3>Appliances OFICIAIS utilizados</h3>
+
+
+https://www.netgate.com/products/appliances/
+
 
 <h3>Appliances "não oficiais" utilizados pelos membros da comunidade</h3>
 
