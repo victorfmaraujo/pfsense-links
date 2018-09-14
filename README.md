@@ -1,6 +1,21 @@
 # pfsense-links
 
 
+<h3>Appliances "não oficiais" utilziados pelos membros da comunidade</h3>
+
+
+<h2> SHW - Mais utilizado</h2>
+
+
+http://swh.net.br/firewall/appliance-firewall.shtm
+
+
+<h2>SUPERA - Menos Utilizado</h2>
+
+
+https://www.supera.ind.br/produtos
+
+
 <h3>Pacotes Não Oficiais Marcelo Coutinho</h3>
 
 
