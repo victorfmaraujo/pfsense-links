@@ -1,7 +1,11 @@
 # pfsense-links
 
 
-<h3>Appliances "não oficiais" utilziados pelos membros da comunidade</h3>
+<h3>Caso esteja no celular, clique abaixo em View all of README.md</h3>
+
+
+
+<h3>Appliances "não oficiais" utilizados pelos membros da comunidade</h3>
 
 
 <h2> SHW - Mais utilizado</h2>
@@ -10,7 +14,7 @@
 http://swh.net.br/firewall/appliance-firewall.shtm
 
 
-<h2>SUPERA - Menos Utilizado</h2>
+<h2>SUPERA - Menos utilizado</h2>
 
 
 https://www.supera.ind.br/produtos
