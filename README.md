@@ -42,6 +42,12 @@ https://github.com/marcelloc/Unofficial-pfSense-packages
 https://www.youtube.com/c/netgateofficial
 
 
+
+<h3> Canal NetworkPro </h3>
+
+https://www.youtube.com/c/NETWORKPROBR/videos
+
+
 <h3>Canal Cavalcanti treinamentos:</h3>
 
 
